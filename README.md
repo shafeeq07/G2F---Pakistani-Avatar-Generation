@@ -16,7 +16,7 @@ Avatar generation is a technique that is of great value in the media industry. A
 
 ## Dataset
 
-- [selfie2anime](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1xOWj1UVgp6NKMT3HbPhBbtq2A4EDkghF%2Fview%3Fusp%3Dsharing)
+- [selfie2anime](https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1xOWj1UVgp6NKMT3HbPhBbtq2A4EDkghF%2Fview%3Fusp%3Dsharing)
 - [Pakistani Faces Images](https://drive.google.com/file/d/1FsDlzvQd59fTMeqQfGxrKOhMe7OEgCA7/view?usp=sharing)
 
 ## Results
