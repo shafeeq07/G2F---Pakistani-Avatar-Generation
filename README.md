@@ -21,11 +21,8 @@ Avatar generation is a technique that is of great value in the media industry. A
 
 ## Results
 
-<img src="./assets/result 1.jpeg" />
+<img src="./assets/results.jpeg" />
 
-<img src="./assets/result 2.jpeg" />
-
-<img src="./assets/result 3.jpeg" />
 
 ## References
 - [U-GAT-IT — Official TensorFlow Implementation (ICLR 2020)](https://github.com/taki0112/UGATIT)
